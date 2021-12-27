@@ -11,6 +11,6 @@
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuomh/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kuomh.23@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuomh.23@gmail.com)
 
 I'm a interdisciplinary data analyst graduated from NSYSU majoring in Quantitative analysis with strong skills in R, SQL, Python and others, dedicate to extracting insights from data and apply data science and technology to glean information and improve decision-making. 
