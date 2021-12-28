@@ -14,3 +14,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuomh.23@gmail.com)
 
 I'm a interdisciplinary data analyst graduated from NSYSU majoring in Quantitative analysis with strong skills in R, SQL, Python and others, dedicate to extracting insights from data and apply data science and technology to glean information and improve decision-making. 
+
+https://visitor-badge.glitch.me/badge?page_id=kuo23/kuo23
